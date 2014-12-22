@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The testament of Cresseid, compylit be M. Robert Henrysone, sculemaister in DunsermelingHenryson, Ro
+
 #####Body#####
-The testament of Cresseid, compylit be M. Robert Henrysone, sculemaister in DunsermelingHenryson, Ro
+
+1. THE Testament of Cresseid.
+
 **Types of content**
 
   * There are 617 **verse** lines!
